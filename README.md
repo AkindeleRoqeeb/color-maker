@@ -1,2 +1,2 @@
 # color maker
-Only python.
+Only python code.
